@@ -1,0 +1,25 @@
+ft_strstr.c
+
+int main(void)
+{
+	char *largestring = "Foo Bar Baz";
+	char *smallstring = "";
+	char *ptr;
+
+	ptr = ft_strstr(largestring, smallstring);
+	printf("%s\n", ptr);
+}
+
+
+ft_strncat.c
+
+int main()
+{
+ char dest[21] = "Ma che cazzo ";
+ char src[21] = "succede";
+ unsigned int nb =  30;
+ 
+ printf("%s\n", ft_strncat(&dest[0], &src[0], nb));
+ 
+ return(0);
+}

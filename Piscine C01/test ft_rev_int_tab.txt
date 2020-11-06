@@ -1,0 +1,14 @@
+int main(void)
+{
+	int tab[8] = {88,43,3,5,0,0,1,11};
+	int size = 8;
+
+	int k = 0;
+
+	ft_rev_int_tab(tab, size);
+	while (k < size)
+	{
+		printf("%d\n", tab[k]);
+		k++;
+	}
+}

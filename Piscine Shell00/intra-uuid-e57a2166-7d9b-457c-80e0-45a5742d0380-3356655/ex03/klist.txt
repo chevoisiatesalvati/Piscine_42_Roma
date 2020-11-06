@@ -1,0 +1,27 @@
+Credentials cache: API:9A867569-AB99-44BC-A813-82CC8F9F4DD2
+        Principal: asalvemi@42ROMA.IT
+
+  Issued                Expires               Principal
+Oct 20 19:34:21 2020  Oct 21 05:34:17 2020  krbtgt/42ROMA.IT@42ROMA.IT
+
+
+Credentials cache: API:B9F24076-F06F-460F-A41A-CD8DB317618E
+        Principal: asalvemi@42ROMA.IT
+
+  Issued                Expires               Principal
+Oct 20 17:00:08 2020  Oct 21 03:00:08 2020  krbtgt/42ROMA.IT@42ROMA.IT
+
+
+Credentials cache: API:16C48BDE-258A-4BC8-8EDC-DCD17745F404
+        Principal: asalvemi@42ROMA.IT
+
+  Issued                Expires               Principal
+Oct 20 17:00:07 2020  Oct 21 03:00:07 2020  krbtgt/42ROMA.IT@42ROMA.IT
+
+
+Credentials cache: API:DEECE25B-FD91-4105-A562-0185F2250E7F
+        Principal: asalvemi@42ROMA.IT
+
+  Issued                Expires               Principal
+Oct 20 16:22:32 2020  Oct 21 02:22:32 2020  krbtgt/42ROMA.IT@42ROMA.IT
+Oct 20 16:22:34 2020  Oct 21 02:22:32 2020  HTTP/storage.42roma.it@42ROMA.IT

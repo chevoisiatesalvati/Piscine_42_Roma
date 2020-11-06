@@ -1,0 +1,9 @@
+int main(void)
+{
+	char *ptr;
+
+	ptr = "bella ciao";
+	int result = ft_strlen(ptr);
+	printf("%d\n", result );
+	return (0);
+}
